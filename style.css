@@ -12,6 +12,8 @@
 /*Criando as váriaveis que seram utilizadas em grande parte no projeto*/
 :root{
     --cor-fundo: #EBECEE;
+    --cinza: #474646;
+    --cinza-claro: #858585;
     --azul: #002F52;
     --branco: #FFFFFF;
     --laranja: #EB9B00;
